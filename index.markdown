@@ -1,4 +1,4 @@
-
+# **Gurdit Singh**
 E-mail: singhg78@myumanitoba.ca                                     
 Phone: (+1) 204-869-7834
 [LinkedIn](https://www.linkedin.com/in/gurdit-singh-956a47253/)	
