@@ -33,7 +33,7 @@ _University Of Manitoba | Expected: April 2023_
 | C/C++ |VS Code|
 |HTML/CSS |Linux|
 |Prolog | |
-****
+
 ## **Projects**
 ```sh
 1. An android app - Meal Planner | Java, SQL, Android Studio June 2022
