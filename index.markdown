@@ -5,13 +5,6 @@
 layout: Post
 ---
 
----
-layout: post
-title:  "Resume"
-date:   2022-11-01 16:40:52 -0500
-categories: jekyll update
----
-
 # **Gurdit Singh**
 
 E-mail: singhg78@myumanitoba.ca                                     
