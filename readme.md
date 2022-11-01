@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Readme File"
-date:   2022-11-01 16:40:52 -0500
-categories: Readmefile
----
+
 # Title: **Hosting a Resume on a public GitHub Repository**
 
 
