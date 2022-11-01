@@ -1,4 +1,11 @@
-# **Gurdit Singh**
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+title: Gurdit Singh
+---
+
 E-mail: singhg78@myumanitoba.ca                                     
 Phone: (+1) 204-869-7834
 [LinkedIn](https://www.linkedin.com/in/gurdit-singh-956a47253/)	
