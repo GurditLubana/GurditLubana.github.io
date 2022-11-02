@@ -28,6 +28,9 @@ twitter_username: https://twitter.com/gurditrajat13
 github_username:  https://github.com/GurditLubana/
 
 # Build settings
+theme: minima
+plugins: 
+ - gurdit-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
