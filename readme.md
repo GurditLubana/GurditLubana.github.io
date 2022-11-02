@@ -107,4 +107,4 @@ Q1. Do you think Mardown is better than Latex, for resume building.\
 > Yes, Latex is sort of sub set of Mardown language. Latex was made up from Markdown. But Mardown language is easier to understand and write. It is similar to writing a plain word doc with some extra features. However, you have to learn the complex syntax of overleaf, in order to be working with latex. 
 
 Q2. Why is my resume not showing up?
-> 
+> Usually server takes some time to get updated, so try waiting. It still doesn't show up make sure you have your resume pasted in index.markdown file.
