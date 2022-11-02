@@ -1,3 +1,5 @@
+![1](resume.gif)
+
 
 # Title: **Hosting a Resume on a public GitHub Repository**
  
