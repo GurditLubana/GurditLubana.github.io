@@ -1,6 +1,6 @@
 
 # Title: **Hosting a Resume on a public GitHub Repository**
-
+ 
 
 # **Purpose**
 The basic purpose of this Readme file is to list the practical steps of how to host and format a resume using Markdown by relating them to the general principles of current Technical Writing mentioned by Andrew Etter in his book "_Modern Technical Writing_".
